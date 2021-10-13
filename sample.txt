@@ -1,0 +1,143 @@
+<div class="item lunch-item">
+  <div class="item-img">
+    <img src="./images/item-2.jpeg" alt="" class="photo" />
+  </div>
+  <div class="info">
+    <div class="description">
+      <h4 class="item-name">diner double</h4>
+      <h4 class="price">$13.99</h4>
+    </div>
+    <p class="about">
+      vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang
+      helvetica man braid jianbing. Marfa thundercats
+    </p>
+  </div>
+</div>
+
+<div class="item shake-item">
+  <div class="item-img">
+    <img src="./images/item-3.jpeg" alt="" class="photo" />
+  </div>
+  <div class="info">
+    <div class="description">
+      <h4 class="item-name">godzilla milkshake</h4>
+      <h4 class="price">$6.99</h4>
+    </div>
+    <p class="about">
+      ombucha chillwave fanny pack 3 wolf moon street art photo booth before
+      they sold out organic viral.
+    </p>
+  </div>
+</div>
+
+<div class="item breakfast-item">
+  <div class="item-img">
+    <img src="./images/item-4.jpeg" alt="" class="photo" />
+  </div>
+  <div class="info">
+    <div class="description">
+      <h4 class="item-name">country delight</h4>
+      <h4 class="price">$20.99</h4>
+    </div>
+    <p class="about">
+      Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin
+      mlkshk truffaut,
+    </p>
+  </div>
+</div>
+
+<div class="item lunch-item">
+  <div class="item-img">
+    <img src="./images/item-5.jpeg" alt="" class="photo" />
+  </div>
+  <div class="info">
+    <div class="description">
+      <h4 class="item-name">egg attack</h4>
+      <h4 class="price">$22.99</h4>
+    </div>
+    <p class="about">
+      franzen vegan pabst bicycle rights kickstarter pinterest meditation
+      farm-to-table 90's pop-up
+    </p>
+  </div>
+</div>
+
+<div class="item shake-item">
+  <div class="item-img">
+    <img src="./images/item-6.jpeg" alt="" class="photo" />
+  </div>
+  <div class="info">
+    <div class="description">
+      <h4 class="item-name">oreo dream</h4>
+      <h4 class="price">$18.99</h4>
+    </div>
+    <p class="about">
+      Portland chicharrones ethical edison bulb, palo santo craft beer chia
+      heirloom iPhone everyday
+    </p>
+  </div>
+</div>
+
+<div class="item shake-item">
+  <div class="item-img">
+    <img src="./images/item-7.jpeg" alt="" class="photo" />
+  </div>
+  <div class="info">
+    <div class="description">
+      <h4 class="item-name">bacon overflow</h4>
+      <h4 class="price">$8.99</h4>
+    </div>
+    <p class="about">
+      carry jianbing normcore freegan. Viral single-origin coffee live-edge,
+      pork belly cloud bread iceland put a bird
+    </p>
+  </div>
+</div>
+
+<div class="item lunch-item">
+  <div class="item-img">
+    <img src="./images/item-8.jpeg" alt="" class="photo" />
+  </div>
+  <div class="info">
+    <div class="description">
+      <h4 class="item-name">american classic</h4>
+      <h4 class="price">$12.99</h4>
+    </div>
+    <p class="about">
+      on it tumblr kickstarter thundercats migas everyday carry squid palo santo
+      leggings. Food truck truffaut
+    </p>
+  </div>
+</div>
+
+<div class="item shake-item">
+  <div class="item-img">
+    <img src="./images/item-9.jpeg" alt="" class="photo" />
+  </div>
+  <div class="info">
+    <div class="description">
+      <h4 class="item-name">quarantine buddy</h4>
+      <h4 class="price">$16.99</h4>
+    </div>
+    <p class="about">
+      skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb
+      yuccie crucifix microdosing.
+    </p>
+  </div>
+</div>
+
+<div class="item dinner-item">
+  <div class="item-img">
+    <img src="./images/item-10.jpeg" alt="" class="photo" />
+  </div>
+  <div class="info">
+    <div class="description">
+      <h4 class="item-name">quarantine buddy</h4>
+      <h4 class="price">$39.99</h4>
+    </div>
+    <p class="about">
+      skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb
+      yuccie crucifix microdosing.
+    </p>
+  </div>
+</div>
